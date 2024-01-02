@@ -1,8 +1,9 @@
-// 🎯   Key Note is go till root and 
-//      just find other number via division
+// 📅   9 April 2024
+// 🚨   Lecture 3 - striver Maths 
+// 🎯   Find all divisors  
 
 // 📌 App1 - Traverse all
-// 📌 App1 - Traverse till root(N)
+// 📌 App1 - Traverse till root(N) and use (i) & (num/i)
 
 #include <bits/stdc++.h>
 using namespace std;

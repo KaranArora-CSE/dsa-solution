@@ -1,5 +1,5 @@
 // 📅   9 April 2024
-
+// 🚨   Lecture 2 - striver Maths 
 // 🎯   Prime Factor - 
 //      The number who is prime + factor of num
 
