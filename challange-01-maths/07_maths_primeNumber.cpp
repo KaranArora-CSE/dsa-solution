@@ -2,8 +2,7 @@
 // 🚨   Lecture 3 - striver Maths 
 // 🎯   Prime Number - 
 
-// 📌 App1 - Get all factor ans check prime 
-// 📌 App2 - School way divide from num till possible
+// 📌 App1 - counter counts 2
 
 #include <bits/stdc++.h>
 using namespace std;
