@@ -1,5 +1,5 @@
 // 📅   10 April 2024
-// 🚨   Lecture 1 - striver 2 Pointer and Slidig Windows 
+// 🚨   Lecture 2 - striver 2 Pointer and Slidig Windows 
 
 // 🙏 Need to find max points we can gain from choosing consicutive set of card 
 

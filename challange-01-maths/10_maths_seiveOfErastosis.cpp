@@ -6,6 +6,8 @@
 //          --> srtart from i*i 
 //          --> compute only if 1 
 
+// black box - prime harmonics series 
+
 #include <bits/stdc++.h>
 using namespace std;
 

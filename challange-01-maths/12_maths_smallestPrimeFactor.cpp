@@ -1,5 +1,5 @@
 // 📅   10 April 2024
-// 🚨   Lecture 6 - striver Maths 
+// 🚨   Lecture 8 - striver Maths 
 
 // 📌 App1 - check for all 
 // 📌 App2 - seive of erastosis 
